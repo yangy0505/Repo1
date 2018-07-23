@@ -1,0 +1,17 @@
+[{
+  "title" : "后台首页",
+  "icon" : "icon-computer",
+  "href" : "page/main.html",
+  "spread" : false
+},{
+  "title" : "选课列表",
+  "icon" : "icon-text",
+  "href" : "/admin/news/newsList",
+  "spread" : false
+},{
+  "title" : "成绩查询",
+  "icon" : "&#xe64c;",
+  "href" : "page/links/linksList.html",
+  "spread" : false
+}
+]
